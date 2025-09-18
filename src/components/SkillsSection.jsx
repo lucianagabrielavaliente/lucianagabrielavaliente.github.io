@@ -22,29 +22,29 @@ const skills = [
     // Backend Development
     {name: "SQL", level: "Intermediate", category: "Backend"},
     {name: "MongoDB", level: "Basic", category: "Backend"},
-    {name: "GraphQL", level: "Basic", category: "Backend"},
-    {name: "Node.js", level: "Intermediate", category: "Backend"},
-    {name: "Express.js", level: "Basic", category: "Backend"},
-    {name: "Spring Boot", level: "Basic", category: "Backend"},
+    //{name: "GraphQL", level: "Basic", category: "Backend"},
+    //{name: "Node.js", level: "Intermediate", category: "Backend"},
+    //{name: "Express.js", level: "Basic", category: "Backend"},
+    //{name: "Spring Boot", level: "Basic", category: "Backend"},
 
     // Frontend Development
-    {name: "HTML/CSS", level: "Basic", category: "Frontend"},
-    {name: "JavaScript", level: "Basic", category: "Frontend"},
-    {name: "React", level: "Basic", category: "Frontend"},
+    //{name: "HTML/CSS", level: "Basic", category: "Frontend"},
+    //{name: "JavaScript", level: "Basic", category: "Frontend"},
+    //{name: "React", level: "Basic", category: "Frontend"},
 
     // Technologies
     {name: "Git", level: "Intermediate", category: "Technologies"},
-    {name: "Docker", level: "Basic", category: "Technologies"},
+    //{name: "Docker", level: "Basic", category: "Technologies"},
     {name: "Pandas", level: "Intermediate", category: ["Technologies", "Data Analysis", "Data Science"]},
     {name: "NumPy", level: "Intermediate", category: ["Technologies", "Data Analysis", "Data Science"]},
     {name: "Scikit-learn", level: "Intermediate", category: ["Technologies", "Data Science"]},
     {name: "TensorFlow", level: "Basic", category:["Technologies", "Data Science"]},
-    {name: "Flask", level: "Basic", category: "Technologies"},
-    {name: "Django", level: "Basic", category: "Technologies"},
+    //{name: "Flask", level: "Basic", category: "Technologies"},
+    //{name: "Django", level: "Basic", category: "Technologies"},
     {name: "FastAPI", level: "Basic", category: "Technologies"},
     {name: "Jupyter Notebook", level: "Intermediate", category: ["Technologies", "Data Analysis", "Data Science"]},
     {name: "VS Code", level: "Intermediate", category: "Technologies"},
-    {name: "Postman", level: "Basic", category: "Technologies"},
+    //{name: "Postman", level: "Basic", category: "Technologies"},
     {name: "MLflow", level: "Basic", category: ["Technologies", "Data Science"]},
 ]
 

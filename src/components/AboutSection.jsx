@@ -63,7 +63,8 @@ export const AboutSection = () => {
                                     <div className="text-left">
                                         <h4 className="font-semibold">Professional Experience</h4>
                                         <p>
-                                            Add Later something about Teacher Assistant, Research Group and things like that
+                                            Over one year of experience as a freelance Data Scientist, complemented by my work as a Teaching Assistant for the Business Systems and Processes course at UTN FRCU. 
+                                            Active member of the Database Research Group at UTN FRCU
                                         </p>
                                     </div>
                                 </div>
